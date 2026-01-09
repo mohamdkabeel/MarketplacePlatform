@@ -65,18 +65,15 @@ All API endpoints are documented using **Swagger** for easy testing and integrat
 > Below are some screenshots of the API endpoints documented in Swagger.
 
 ### Authentication & Users & Cart
-![Auth Endpoints](<img width="1505" height="919" alt="Screenshot 2026-01-09 134010" src="https://github.com/user-attachments/assets/c44d2e8c-d4a4-4ed7-81ff-e2d110a39026" />
-/auth.png)
+(<img width="1505" height="919" alt="Screenshot 2026-01-09 134010" src="https://github.com/user-attachments/assets/c44d2e8c-d4a4-4ed7-81ff-e2d110a39026" />)
 
 
 ### Categories & Orders & Products 
-![Categories Endpoints](<img width="1263" height="908" alt="Screenshot 2026-01-09 134034" src="https://github.com/user-attachments/assets/32c32316-59da-45e8-945b-fa8063dd953b" />
-/categories.png)
+(<img width="1263" height="908" alt="Screenshot 2026-01-09 134034" src="https://github.com/user-attachments/assets/32c32316-59da-45e8-945b-fa8063dd953b" />)
 
 
 ### Reviews & WishList
-![Reviews Endpoints](<img width="1267" height="341" alt="Screenshot 2026-01-09 134051" src="https://github.com/user-attachments/assets/67bc58de-732f-4262-85d5-ded129031a23" />
-/reviews.png)
+(<img width="1267" height="341" alt="Screenshot 2026-01-09 134051" src="https://github.com/user-attachments/assets/67bc58de-732f-4262-85d5-ded129031a23" />)
 
 ---
 
