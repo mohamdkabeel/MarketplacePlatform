@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Marketplace.Application.IServices.Notification
+{
+    
+
+    public interface INotificationService
+    {
+        Task SendNotificationAsync(string userId, string message);
+    }
+
+}
